@@ -1,0 +1,1 @@
+https://github.com/maxte0/ocr_trainingsdaten/releases/download/v1.0.1/GN_1788_5_GN_A_250.ocrd.zip

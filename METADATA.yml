@@ -1,0 +1,27 @@
+schema: https://tboenig.github.io/gt-metadata/schema/2023-10-25/schema.json
+title: ocr_trainingsdaten
+url: https://github.com/maxte0/ocr_trainingsdaten
+authors: []
+description: dhd24 test
+project-name: DHd24-Projektname
+language:
+  - deu
+production-software: eScriptorium + Kraken
+script:
+  - Kurrent
+script-type: only-manuscript
+time:
+  notBefore: '1788'
+  notAfter: '1788'
+hands:
+  count: '3'
+  level: level2
+license:
+  - name: PublicDomainMark 1.0
+    url: https://creativecommons.org/publicdomain/mark/1.0/
+gtType: data_document
+format: Page-XML
+volume:
+  - metric: pages
+    count: 800
+transcription-guidelines: ocrd

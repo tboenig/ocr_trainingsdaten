@@ -10,8 +10,8 @@ authors:
       family-names: Menzer
     - given-names: xyz
     - given-names: SLUB
-repository-code: 'https://github.com/maxte0/ocr_trainingsdaten'
-url: 'https://github.com/maxte0/ocr_trainingsdaten'
+repository-code: 'https://github.com/tboenig/ocr_trainingsdaten'
+url: 'https://github.com/tboenig/ocr_trainingsdaten'
 abstract: |-
     Kurrent GT from the Moravian Knowledge Network handwritten periodicals
 keywords:
@@ -21,6 +21,6 @@ keywords:
     - ground-truth
     - data_structure_and_text
 license: PublicDomainMark 1.0
-commit: v1.0.1
-version: 6_v1.0.1
-date-released: '2024-2-27'
+commit: v1.0.3
+version: 1_v1.0.3
+date-released: '2024-3-4'

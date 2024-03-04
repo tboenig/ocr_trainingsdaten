@@ -1,6 +1,6 @@
 <div>
-   <h1 id="title">test-gt</h1>
-   <p id="paragraph">Kurrent GT from the Moravian Knowledge Network handwritten periodicals</p>
+   <h1 id="title">ocr_trainingsdaten</h1>
+   <p id="paragraph">dhd24 test</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
@@ -8,36 +8,18 @@
       <dt id="Format">Format:</dt>
       <dd>Page-XML</dd>
       <dt id="Time">Time:</dt>
-      <dd>1765-1806</dd>
+      <dd>1788-1788</dd>
       <dt id="GTT">GT Type:</dt>
-      <dd>data_structure_and_text</dd>
+      <dd>data_document</dd>
       <dt id="License">License:</dt>
       <dd>PublicDomainMark 1.0</dd>
       <dt id="Guidelines">Transcription Guidelines:</dt>
-      <dd>OCR-D GT Level 2, but with ℓ as </dd>
+      <dd>ocrd</dd>
       <dt id="Project">Project:</dt>
-      <dd>Gemein-Nachrichten der Herrnhuter Brüdergemeine</dd>
-      <dt id="Project-URL">Project-URL:</dt>
-      <dd>https://dhh.hypotheses.org/</dd>
+      <dd>DHd24-Projektname</dd>
    </dl>
    <h2>Sources</h2>
    <h3>The volume of transcriptions:</h3>
-   <table id="table_id">
-      <thead>
-         <tr>
-            <th>TextLine</th>
-            <th>Page</th>
-            <th>TxtRegion</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>1964</td>
-            <td>81</td>
-            <td>189</td>
-         </tr>
-      </tbody>
-   </table>
    <div id="transcriptions">
       <h3>List of transcriptions</h3>
       <div>

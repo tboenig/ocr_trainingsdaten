@@ -3,9 +3,9 @@
    <h2>Metadata</h2>
    <dl class="grid">
       <dt>Name:</dt>
-      <dd>test-gt</dd>
+      <dd>ocr_trainingsdaten</dd>
       <dt>Description:</dt>
-      <dd>Kurrent GT from the Moravian Knowledge Network handwritten periodicals</dd>
+      <dd>dhd24 test</dd>
       <dt>Language:</dt>
       <dd>deu</dd>
       <dt>Format:</dt>
@@ -13,21 +13,19 @@
       <dt>Production software:</dt>
       <dd>eScriptorium + Kraken</dd>
       <dt>Time:</dt>
-      <dd>1765-1806</dd>
+      <dd>1788-1788</dd>
       <dt>GT Type:</dt>
-      <dd>data_structure_and_text</dd>
+      <dd>data_document</dd>
    </dl>
    <details>
       <summary>More Information</summary>
       <dl class="more-grid">
          <dt>Transcription Guidelines:</dt>
-         <dd>OCR-D GT Level 2, but with ℓ as </dd>
+         <dd>ocrd</dd>
          <dt>License:</dt>
          <dd>PublicDomainMark 1.0</dd>
          <dt>Project:</dt>
-         <dd>Gemein-Nachrichten der Herrnhuter Brüdergemeine</dd>
-         <dt>Project-URL:</dt>
-         <dd>https://dhh.hypotheses.org/</dd>
+         <dd>DHd24-Projektname</dd>
       </dl>
    </details>
 </div>
@@ -121,7 +119,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/ocr_trainingsdaten/releases/tag/v1.0.3">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 1_v1.0.3</a>
+         <a href="https://github.com/tboenig/ocr_trainingsdaten/releases/tag/v1.0.6">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 4_v1.0.6</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/ocr_trainingsdaten/releases">Version archive</a>
@@ -130,55 +128,6 @@ An image database</p>
 </div>
 <div class="metadata">
    <h2>Total view</h2>
-   <table class="noStyle">
-      <tr>
-         <td>💡 You can show and hide individual columns of the table.<br/>Click the corresponding button.
-                                <details>
-               <summary>Legend</summary>
-               <dl class="grid">
-                  <dt>TextLine</dt>
-                  <dd>TextLine</dd>
-                  <dt>Page</dt>
-                  <dd>Page</dd>
-                  <dt>TxtRegion</dt>
-                  <dd>
-                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
-                        target="_blank">TextRegion</a>
-                  </dd>
-               </dl>
-            </details>
-         </td>
-         <td>
-            <div class="grid-container">
-               <button onclick="document.getElementById('table_id').classList.toggle('hide1')">
-                  <i>TextLine</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide2')">
-                  <i>Page</i>
-               </button>
-               <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
-                  <i>TxtRegion</i>
-               </button>
-            </div>
-         </td>
-      </tr>
-   </table>
-   <table id="table_id">
-      <thead>
-         <tr>
-            <th>TextLine</th>
-            <th>Page</th>
-            <th>TxtRegion</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>1964</td>
-            <td>81</td>
-            <td>189</td>
-         </tr>
-      </tbody>
-   </table>
 </div>
 <div>
    <h2>Details</h2>
